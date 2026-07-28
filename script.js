@@ -39,8 +39,8 @@ const products = [
 {
     name: "Diamond T133  Android Screen",
     image: "images/D T133.png",
-    description: "10.1-inch • 4GB RAM •64GB Storage",
-    link: "D T133.html"
+    description: "10.1-inch • 4 GB RAM •64 GB Storage",
+    link: "D T133.html "
 },
 
 {
