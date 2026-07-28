@@ -17,21 +17,21 @@ const products = [
 
 {
     name: "Diamond P13 Android Screen",
-    image: "images/P13.png",
+    image: "images/p13.png",
     description: "10.1-inch • 2GB RAM • 64GB Storage",
     link: "p13.html"
 },
 
 {
     name: "Diamond P13  Android Screen",
-    image: "images/P13..png",
+    image: "images/p13..png",
     description: "10.8-inch • 2GB RAM • 32GB Storage",
     link: "p13..html"
 },
 
 {
     name: "Diamond P13  Android Screen",
-    image: "images/P13...png",
+    image: "images/p13...png",
     description: "10.8-inch • 2GB RAM • 32GB Storage",
     link: "p13...html"
 },
